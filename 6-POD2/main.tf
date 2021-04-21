@@ -9,7 +9,8 @@ terraform {
 
 provider "dcnm" {
   # Configuration options
-  username = "admin"
-  password = "WWTwwt1!"
-  url      = "https://10.253.180.125"
+  username = "****"
+  password = "****"
+  url      = "https://****"
+}
 }
