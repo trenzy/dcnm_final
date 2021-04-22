@@ -1,2 +1,1 @@
-MC repository for Terraform with DCNM. This mostly uses
-dcnm_rest.
+Terraform repository with DCNM. This mostly uses dcnm_rest.
